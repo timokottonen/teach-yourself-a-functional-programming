@@ -1,3 +1,5 @@
+package exercises
+
 object Functions {
 
     // adds two integers together

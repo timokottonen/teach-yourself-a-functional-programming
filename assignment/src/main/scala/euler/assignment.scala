@@ -1,6 +1,10 @@
-package euler
+package assignment.src.main.scala.euler
 
 object ProjectEuler {
+  
+  def main (args:Array[String]):Unit = {
+    println("moi")
+  }
   /*
    * Even Fibonacci numbers
    *

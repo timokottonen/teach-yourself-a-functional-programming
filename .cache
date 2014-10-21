@@ -1,0 +1,308 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin
+compile options:
+6 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\lib\ext\access-bridge.jar;C:\Program Files\Java\jre7\lib\ext\dnsns.jar;C:\Program Files\Java\jre7\lib\ext\jaccess.jar;C:\Program Files\Java\jre7\lib\ext\localedata.jar;C:\Program Files\Java\jre7\lib\ext\sunec.jar;C:\Program Files\Java\jre7\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre7\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre7\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre7\lib\ext\zipfs.jar
+2 -> -bootclasspath
+3 -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+4 -> -encoding
+5 -> Cp1252
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+67 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\assignment\src\main\scala\euler\ProjectEuler$.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\assignment\src\main\scala\euler\ProjectEuler.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$10.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$11.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$12.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$13.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$2.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$3.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$4.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$5.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$6.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$7.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$8.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$9.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$main$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$verify$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$2.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$3.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$4.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$5.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$6.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$7.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$8.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$main$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$verify$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$2.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$3.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$4.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$3.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$5.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$6$$anonfun$apply$mcV$sp$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$6.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$7$$anonfun$apply$mcV$sp$2.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$7.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$8.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$main$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$plus$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$verify$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$10.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$11.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$12.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$13.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$14.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$2.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$3.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$4.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$5.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$6.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$7.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$8.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$9.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$main$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$verify$1.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$.class
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion.class
+binary dependencies:
+10 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+67 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> assignment.src.main.scala.euler.ProjectEuler
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> assignment.src.main.scala.euler.ProjectEuler$
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$10
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$11
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$12
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$13
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$2
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$3
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$4
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$5
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$6
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$7
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$8
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$9
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$main$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> Functions$$anonfun$verify$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$2
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$3
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$4
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$5
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$6
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$7
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$8
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$main$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> exercises.Functions$$anonfun$verify$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$2
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$3
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$4
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$5
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$3
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$4
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$5
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$6
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$6$$anonfun$apply$mcV$sp$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$7
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$7$$anonfun$apply$mcV$sp$2
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$8
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$main$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$plus$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> HigherOrderFunctions$$anonfun$verify$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$10
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$11
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$12
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$13
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$14
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$2
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$3
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$4
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$5
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$6
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$7
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$8
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$9
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$main$1
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> Recursion$$anonfun$verify$1
+used names:
+0 items
+product stamps:
+67 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\assignment\src\main\scala\euler\ProjectEuler$.class -> lastModified(1413907477598)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\assignment\src\main\scala\euler\ProjectEuler.class -> lastModified(1413907477556)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$1.class -> lastModified(1413907425816)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$2.class -> lastModified(1413907425857)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$3.class -> lastModified(1413907425869)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$4.class -> lastModified(1413907425881)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$5.class -> lastModified(1413907425893)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$6.class -> lastModified(1413907425913)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$7.class -> lastModified(1413907425924)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$8.class -> lastModified(1413907425936)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$main$1.class -> lastModified(1413907425950)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$$anonfun$verify$1.class -> lastModified(1413907425962)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions$.class -> lastModified(1413907425792)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\exercises\Functions.class -> lastModified(1413907425768)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$1.class -> lastModified(1413907424715)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$10.class -> lastModified(1413907424751)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$11.class -> lastModified(1413907424762)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$12.class -> lastModified(1413907424797)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$13.class -> lastModified(1413907424813)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$2.class -> lastModified(1413907424824)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$3.class -> lastModified(1413907424836)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$4.class -> lastModified(1413907424849)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$5.class -> lastModified(1413907424860)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$6.class -> lastModified(1413907424883)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$7.class -> lastModified(1413907424895)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$8.class -> lastModified(1413907424942)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$9.class -> lastModified(1413907424953)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$main$1.class -> lastModified(1413907425003)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$$anonfun$verify$1.class -> lastModified(1413907425027)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions$.class -> lastModified(1413907424687)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Functions.class -> lastModified(1413907424423)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$1.class -> lastModified(1413907425076)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$2.class -> lastModified(1413907425111)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$3.class -> lastModified(1413907425122)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$4.class -> lastModified(1413907425132)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$3.class -> lastModified(1413907425175)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1413907425184)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5$$anonfun$apply$mcV$sp$5.class -> lastModified(1413907425207)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$5.class -> lastModified(1413907425144)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$6$$anonfun$apply$mcV$sp$1.class -> lastModified(1413907425227)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$6.class -> lastModified(1413907425217)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$7$$anonfun$apply$mcV$sp$2.class -> lastModified(1413907425270)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$7.class -> lastModified(1413907425261)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$8.class -> lastModified(1413907425313)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$main$1.class -> lastModified(1413907425330)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$plus$1.class -> lastModified(1413907425341)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$$anonfun$verify$1.class -> lastModified(1413907425352)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions$.class -> lastModified(1413907425066)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\HigherOrderFunctions.class -> lastModified(1413907425046)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$1.class -> lastModified(1413907425429)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$10.class -> lastModified(1413907425454)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$11.class -> lastModified(1413907425462)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$12.class -> lastModified(1413907425471)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$13.class -> lastModified(1413907425531)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$14.class -> lastModified(1413907425539)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$2.class -> lastModified(1413907425565)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$3.class -> lastModified(1413907425574)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$4.class -> lastModified(1413907425582)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$5.class -> lastModified(1413907425591)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$6.class -> lastModified(1413907425599)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$7.class -> lastModified(1413907425608)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$8.class -> lastModified(1413907425639)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$9.class -> lastModified(1413907425674)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$main$1.class -> lastModified(1413907425702)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$$anonfun$verify$1.class -> lastModified(1413907425711)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion$.class -> lastModified(1413907425420)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\bin\Recursion.class -> lastModified(1413907425389)
+source stamps:
+5 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> hash(2af5dad1cbd7f3717cceb8f61f0a8e2895dc51b3)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> hash(f43049f4848f173ba070ef5023b1d3764cbee708)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> hash(110363063e7221a6cae4d961e799c7a5af0df36d)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> hash(e4a430224aabd74cb4f9edeeab1a22c01d47e2a7)
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> hash(ce83991d3e96a5a79f472f36a476c3af3fc21dc5)
+binary stamps:
+2 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1406281265000)
+C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar -> lastModified(1410626115976)
+class names:
+2 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\Timo\Desktop\Timo\Scala\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar -> scala.Predef$
+internal apis:
+5 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCxtAOlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAsYXNzaWdubWVudC5zcmMubWFpbi5zY2FsYS5ldWxlci5Qcm9qZWN0RXVsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMeFloEqVKL/fAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AElbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADZzcQB+AEh0AAVBcnJheXEAfgBOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEh0AAZTdHJpbmdzcQB+AExzcQB+AE91cQB+AFIAAAADc3EAfgBUdAAEamF2YXNxAH4AVHQABGxhbmdxAH4AWXNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgBtAAAAAnNxAH4ASHQABk9iamVjdHEAfgBxc3EAfgBIdAADQW55cQB+AE51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0ABlhc3NpZ25tZW50LnNyYy5tYWluLnNjYWxhc3EAfgCEdAAfYXNzaWdubWVudC5zcmMubWFpbi5zY2FsYS5ldWxlcnNxAH4AhHQACmFzc2lnbm1lbnRzcQB+AIR0AA5hc3NpZ25tZW50LnNyY3NxAH4AhHQAE2Fzc2lnbm1lbnQuc3JjLm1haW5zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUkzc+h9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAPUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ1xiaW50ADlDOlxVc2Vyc1xUaW1vXGdpdFx0ZWFjaC15b3Vyc2VsZi1hLWZ1bmN0aW9uYWwtcHJvZ3JhbW1pbmd1cgACW0Ks8xf4BghU4AIAAHhwAAAAFCr12tHL1/NxfM649h8KjiiV3FGz
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBxH41dAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAJRnVuY3Rpb25zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDHhZaBKlSi/3wIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUkzcwIvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAPUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ1xiaW50ADlDOlxVc2Vyc1xUaW1vXGdpdFx0ZWFjaC15b3Vyc2VsZi1hLWZ1bmN0aW9uYWwtcHJvZ3JhbW1pbmd1cgACW0Ks8xf4BghU4AIAAHhwAAAAFPQwSfSEjxc7oHDvUCOx03ZMvucI
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCj8NQkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATZXhlcmNpc2VzLkZ1bmN0aW9uc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQx4WWgSpUov98CAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQACWV4ZXJjaXNlc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSTNzAi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA9QzpcVXNlcnNcVGltb1xnaXRcdGVhY2gteW91cnNlbGYtYS1mdW5jdGlvbmFsLXByb2dyYW1taW5nXGJpbnQAOUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUEQNjBj5yIabK5Nlh55nHpa8N820=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCWCUylAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAUSGlnaGVyT3JkZXJGdW5jdGlvbnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMeFloEqVKL/fAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AElbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADZzcQB+AEh0AAVBcnJheXEAfgBOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEh0AAZTdHJpbmdzcQB+AExzcQB+AE91cQB+AFIAAAADc3EAfgBUdAAEamF2YXNxAH4AVHQABGxhbmdxAH4AWXNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgBtAAAAAnNxAH4ASHQABk9iamVjdHEAfgBxc3EAfgBIdAADQW55cQB+AE51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSTNzAi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA9QzpcVXNlcnNcVGltb1xnaXRcdGVhY2gteW91cnNlbGYtYS1mdW5jdGlvbmFsLXByb2dyYW1taW5nXGJpbnQAOUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5KQwIkqr10y0+e3uqxoiwB1H4qc=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBj/rVtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAJUmVjdXJzaW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDHhZaBKlSi/3wIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUkzcwIvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAPUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ1xiaW50ADlDOlxVc2Vyc1xUaW1vXGdpdFx0ZWFjaC15b3Vyc2VsZi1hLWZ1bmN0aW9uYWwtcHJvZ3JhbW1pbmd1cgACW0Ks8xf4BghU4AIAAHhwAAAAFM6DmR0+lqWnn0cvNqR2w68/wh3F
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\Timo\git\teach-yourself-a-functional-programming\assignment\src\main\scala\euler\assignment.scala -> 
+AAAAAAAAAAA=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\collections.scala -> 
+AAAAAAAAAAA=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\functions.scala -> 
+AAAAAAAAAAA=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\higherorder.scala -> 
+AAAAAAAAAAA=
+C:\Users\Timo\git\teach-yourself-a-functional-programming\exercises\recursion.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSTNzAi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ1xiaW50ADlDOlxVc2Vyc1xUaW1vXGdpdFx0ZWFjaC15b3Vyc2VsZi1hLWZ1bmN0aW9uYWwtcHJvZ3JhbW1pbmc=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSTNz6H11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXFRpbW9cZ2l0XHRlYWNoLXlvdXJzZWxmLWEtZnVuY3Rpb25hbC1wcm9ncmFtbWluZ1xiaW50ADlDOlxVc2Vyc1xUaW1vXGdpdFx0ZWFjaC15b3Vyc2VsZi1hLWZ1bmN0aW9uYWwtcHJvZ3JhbW1pbmc=
